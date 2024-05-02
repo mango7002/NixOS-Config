@@ -1,3 +1,0 @@
-BSPWM install
-
-[[Minimal Install]]
